@@ -1,5 +1,6 @@
 # AutoHorizontalRecyclerview
 自动水平滚动的RecyclerView
+
 ![](https://github.com/leifu1107/AutoHorizontalRecyclerview/raw/master/screenshots/1.gif) 
 
 #### 思路
